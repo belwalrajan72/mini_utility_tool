@@ -70,5 +70,3 @@ while True :
         break
     else :
         print("Invalid Input.")
-
-rajan = "belwal"
